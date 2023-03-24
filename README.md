@@ -6,19 +6,23 @@ Twitter: @florencetownend -->
 
 I’m a PhD student at University College London working on AI applied to healthcare.
 
-Specificially my project is:
+Specificially my project is: **AI-powered multi-modal data fusion for Motor Neurone Disease prognosis**
 
-<aside>
-💫 AI-powered multi-modal data fusion for Motor Neurone Disease prognosis
 
-</aside>
-
-### What’s on my GitHub?
+### 📓 What’s on my GitHub?
 
 - Ongoing development of PhD software (mostly private due to healthcare data security)
 - Notebooks exploring ML applied to public healthcare datasets
 - Projects from my undergraduate degree in Engineering Mathematics from University of Bristol
 
-| Languages | Python (pytorch, pandas, numpy, etc), SQL, Matlab, C |
-| --- | --- |
-| Methods | Deep learning (CNNs, attention, VAEs, GANs), traditional ML techniques (SVM, RF, GPs), neuroimaging preprocessing |
+### 🗣️ Languages
+- Python: pytorch, pandas, numpy, etc
+- MySQL
+- MATLAB
+- C
+
+### 🌀 Methods
+- Deep learning (CNNs, attention mechanisms, VAEs, GANs)
+- Traditional ML (SVM, RF)
+- Neuroimaging preprocessing
+
