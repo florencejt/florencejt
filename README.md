@@ -1,4 +1,4 @@
-<!-- Hi! I'm Florence Townend, a PhD student working on improving data fusion techniques for survival prediction of Motor Neuron Disease patients. My profile contains coding projects from my undergraduate degree and projects completed during my PhD.
+<!-- Hi! I'm Florence Townend, a PhD student working on improving data fusion techniques for survival prediction of Motor Neuron Disease patients. My profile contains my python package Fusilli, coding projects from my undergraduate degree, and projects completed during my PhD.
 
 Twitter: @florencetownend -->
 
@@ -11,7 +11,7 @@ Specificially my project is: **AI-powered multi-modal data fusion for Motor Neur
 
 ### 📓 What’s on my GitHub?
 
-- Ongoing development of PhD software (mostly private due to healthcare data security)
+- My Python library, fusilli: a collection of multimodal data fusion methods
 - Notebooks exploring ML applied to public healthcare datasets
 - Projects from my undergraduate degree in Engineering Mathematics from University of Bristol
 
